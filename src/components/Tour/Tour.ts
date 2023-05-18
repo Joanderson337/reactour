@@ -2,7 +2,7 @@ import styled from 'styled-components';
 import Tour from 'reactour';
 
 export const StyledTour = styled(Tour)`
-  .cpybIR { // bolinha numeração
+  .ikQOol { // bolinha numeração
     display: none;
   }
 
