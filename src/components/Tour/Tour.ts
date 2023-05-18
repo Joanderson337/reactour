@@ -2,8 +2,8 @@ import styled from 'styled-components';
 import Tour from 'reactour';
 
 export const StyledTour = styled(Tour)`
-  .ikQOol { // bolinha numeração
-    display: none;
+ .cpybIR {
+    display: none
   }
 
   .bzbMsM { // bolinhas
