@@ -10,7 +10,7 @@ export const StyledTour = styled(Tour)`
     background-color: red;
   }
 
-  .druQuJ { // botão
+  .sc-gTRrQi { // botão
     color: red;
     font-size: 16px;
     cursor: pointer;
