@@ -35,6 +35,10 @@ button:hover, a:hover{
  filter: brightness(0.9);
 }
 
+.reactour__dots {
+    display: none;
+  }
+
 a{
   text-decoration: none;
 }

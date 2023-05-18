@@ -2,11 +2,11 @@ import styled from 'styled-components';
 import Tour from 'reactour';
 
 export const StyledTour = styled(Tour)`
- .cpybIR {
-    display: none
+  .sc-iVCKna { // bolinha numeração
+    display: none;
   }
 
-  .bzbMsM { // bolinhas
+  .reactour__dot--is-active { // bolinhas
     background-color: red;
   }
 

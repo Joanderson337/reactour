@@ -21,6 +21,7 @@ export function Home() {
   return (
     <>
       <StyledTour
+        className="no-bullet"
         steps={steps}
         isOpen={isTourOpen}
         onRequestClose={() => closeTour()}
